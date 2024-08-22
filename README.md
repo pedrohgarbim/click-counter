@@ -13,6 +13,3 @@ This project is a simple click counter implemented with HTML, CSS, and JavaScrip
 - Commit your changes (`git commit -m 'Add some feature'`)
 - Push to the branch (`git push origin feature-branch`)
 - Open a Pull Request
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
